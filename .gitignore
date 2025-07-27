@@ -1,8 +1,9 @@
-venv_name/Include
-venv_name/Lib
-venv_name/Scripts
-venv_name/pyvenv.cfg
-venv_name/share
+myenv
+myenv/Include
+myenv/Lib
+myenv/Scripts
+myenv/pyvenv.cfg
+myenv/share
 .env
 __pycache__/
 *.pyc
